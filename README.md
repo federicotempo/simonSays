@@ -1,2 +1,6 @@
-# simonSays
- Juego simonSays de r/Argentina programa, reversionado en ingles
+Example of simon says game for r/Argentina programa
+
+## Installation
+
+Run
+'npm install'
